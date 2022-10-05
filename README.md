@@ -50,6 +50,7 @@ class Programmer
 <!--
  <img align="right" alt="GIF" src="https://github.com/jcsporto/jcsporto/blob/master/code.gif?raw=true" width="70%" height="400px" />
 -->
+<div> 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
@@ -60,12 +61,14 @@ class Programmer
 	<a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
 	<a href="https://stackshare.io/java" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
 	<a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>	
-        <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /></a>
+        <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /></a>	  
 	<!--
         <a href="https://stackshare.io/docker" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>       
 	<a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
 	-->
+	![Snake animation](https://github.com/jcsporto/jcsporto/blob/output/github-contribution-grid-snake.svg)
     </p>
+</div>
 
 ```ruby 
 	end 
