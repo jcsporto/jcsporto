@@ -66,7 +66,9 @@ class Programmer
         <a href="https://stackshare.io/docker" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>       
 	<a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
 	-->
+	<!--
 	![Snake animation](https://github.com/jcsporto/jcsporto/blob/output/github-contribution-grid-snake.svg)
+	-->	
     </p>
 </div>
 
