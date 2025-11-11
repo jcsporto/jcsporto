@@ -61,7 +61,7 @@ class Programmer
 	<a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
 	<a href="https://stackshare.io/java" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
 	<a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>	
-        <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="icons/python/python-original.svg" alt="aws" width="40" height="40" /></a>	  
+        <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="icons/python/python-original.svg" alt="python" width="40" height="40" /></a>	  
 	<!--
         <a href="https://stackshare.io/docker" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>       
 	<a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
